@@ -1,0 +1,1 @@
+v=mean(magic04)
